@@ -1,4 +1,4 @@
-# Mini Tech Challenge – Call Transcript Analyzer
+# Transcript Analyzer
 
 This project is a small **FastAPI** app that uses the **Groq API** to analyze customer call transcripts.  
 It can summarize conversations and detect customer sentiment, then save the results to a CSV file.  
